@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  gap:5px;
+}
+.side {
+  display:flex;
+  flex-direction: column;
+}
+.centre {
+  text-align: center;
+  border: 1px solid;
+  width: 100%;
+}
+
+
